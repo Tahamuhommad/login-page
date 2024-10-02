@@ -3,7 +3,7 @@ import Logo from "../../components/images/facebook.svg.svg";
 
 
 const Home = () => {
-  return <div className='flex items-center justify-center h-screen bg-grey-200'>
+  return <div className='flex items-center justify-center h-screen bg-gray-200'>
     <div className='w-[600px] -mt-60'>
       <Image src={Logo} className='-ml-8'
        alt="facebook logo" 
